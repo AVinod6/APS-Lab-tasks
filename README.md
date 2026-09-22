@@ -16,9 +16,11 @@
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0025-reverse-nodes-in-k-group](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
