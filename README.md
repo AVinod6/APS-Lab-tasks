@@ -12,6 +12,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
@@ -52,6 +53,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0155-min-stack/) | Medium |
+| [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -66,4 +68,8 @@
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
 <!---LeetCode Topics End-->
