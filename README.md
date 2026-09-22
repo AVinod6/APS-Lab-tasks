@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
+| [0219-contains-duplicate-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
@@ -45,6 +46,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0219-contains-duplicate-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -88,6 +90,7 @@
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0219-contains-duplicate-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
