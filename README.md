@@ -9,6 +9,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0155-min-stack/) | Medium |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -46,6 +47,7 @@
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0155-min-stack/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
