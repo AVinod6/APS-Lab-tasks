@@ -10,6 +10,7 @@
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -50,6 +51,7 @@
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -122,4 +124,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
+| [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 <!---LeetCode Topics End-->
