@@ -9,6 +9,7 @@
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
+| [0704-binary-search](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -139,4 +140,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1685-sum-of-absolute-differences-in-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1685-sum-of-absolute-differences-in-a-sorted-array/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0704-binary-search](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0704-binary-search/) | Easy |
 <!---LeetCode Topics End-->
