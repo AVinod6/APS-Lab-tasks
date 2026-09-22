@@ -51,6 +51,7 @@
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0219-contains-duplicate-ii/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -79,6 +80,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -90,6 +92,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0387-first-unique-character-in-a-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Sliding Window
@@ -155,4 +158,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
