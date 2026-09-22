@@ -10,11 +10,13 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
+| [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
@@ -40,4 +42,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
+## Design
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
+## Data Stream
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 <!---LeetCode Topics End-->
