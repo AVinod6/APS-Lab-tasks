@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
+| [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -32,6 +33,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
+| [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -55,6 +57,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -74,6 +77,7 @@
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
+| [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
