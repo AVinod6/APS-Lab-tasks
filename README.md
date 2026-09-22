@@ -6,6 +6,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
@@ -14,6 +15,7 @@
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
@@ -63,4 +65,5 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
+| [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 <!---LeetCode Topics End-->
