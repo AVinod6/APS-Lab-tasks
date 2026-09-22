@@ -42,6 +42,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
+| [0876-middle-of-the-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -62,6 +63,7 @@
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0283-move-zeroes](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0344-reverse-string/) | Easy |
+| [0876-middle-of-the-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0876-middle-of-the-linked-list/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
