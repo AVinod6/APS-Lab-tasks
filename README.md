@@ -23,6 +23,7 @@
 | ------- | ------- |
 | [0155-min-stack](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0155-min-stack/) | Medium |
 | [0232-implement-queue-using-stacks](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
@@ -41,6 +42,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 | [0876-middle-of-the-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0876-middle-of-the-linked-list/) | Easy |
 ## Recursion
@@ -48,6 +50,7 @@
 | ------- | ------- |
 | [0025-reverse-nodes-in-k-group](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
+| [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,6 +64,7 @@
 | [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
+| [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0344-reverse-string/) | Easy |
 | [0876-middle-of-the-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0876-middle-of-the-linked-list/) | Easy |
