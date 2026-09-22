@@ -11,6 +11,7 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Monotonic Stack
 | Problem Name | Difficulty |
@@ -50,4 +51,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
 <!---LeetCode Topics End-->
