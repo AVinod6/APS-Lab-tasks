@@ -4,6 +4,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
 | [0219-contains-duplicate-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0239-sliding-window-maximum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0239-sliding-window-maximum/) | Hard |
@@ -54,6 +55,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
@@ -129,6 +131,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
 | [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 ## Prefix Sum
@@ -144,4 +147,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0704-binary-search](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0704-binary-search/) | Easy |
+## Quicksort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
+## Bubble Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
 <!---LeetCode Topics End-->
