@@ -42,6 +42,7 @@
 | ------- | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0021-merge-two-sorted-lists/) | Easy |
 | [0025-reverse-nodes-in-k-group](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0025-reverse-nodes-in-k-group/) | Hard |
+| [0141-linked-list-cycle](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0206-reverse-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0206-reverse-linked-list/) | Easy |
 | [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
@@ -57,6 +58,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0219-contains-duplicate-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0219-contains-duplicate-ii/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0387-first-unique-character-in-a-string/) | Easy |
@@ -66,6 +68,7 @@
 | ------- | ------- |
 | [0075-sort-colors](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0088-merge-sorted-array/) | Easy |
+| [0141-linked-list-cycle](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0283-move-zeroes/) | Easy |
@@ -75,6 +78,7 @@
 ## Floyd's Cycle Finding Algorithm
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0141-linked-list-cycle](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0142-linked-list-cycle-ii/) | Medium |
 ## Design
 | Problem Name | Difficulty |
