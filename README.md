@@ -14,6 +14,7 @@
 | [0622-design-circular-queue](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0622-design-circular-queue/) | Medium |
 | [0704-binary-search](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0704-binary-search/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0739-daily-temperatures/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 | [0977-squares-of-a-sorted-array](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0977-squares-of-a-sorted-array/) | Easy |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
@@ -27,6 +28,7 @@
 | [0234-palindrome-linked-list](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
 | [0735-asteroid-collision](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0735-asteroid-collision/) | Medium |
+| [0739-daily-temperatures](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 | [0946-validate-stack-sequences](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0946-validate-stack-sequences/) | Medium |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -35,6 +37,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0496-next-greater-element-i/) | Easy |
+| [0739-daily-temperatures](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0739-daily-temperatures/) | Medium |
 | [0901-online-stock-span](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0901-online-stock-span/) | Medium |
 | [1475-final-prices-with-a-special-discount-in-a-shop](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1475-final-prices-with-a-special-discount-in-a-shop/) | Easy |
 ## Linked List
