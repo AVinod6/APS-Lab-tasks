@@ -104,6 +104,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0020-valid-parentheses/) | Easy |
+| [0257-binary-tree-paths](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0257-binary-tree-paths/) | Easy |
 | [0344-reverse-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0344-reverse-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1249-minimum-remove-to-make-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/1249-minimum-remove-to-make-valid-parentheses/) | Medium |
@@ -146,6 +147,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0257-binary-tree-paths/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -164,6 +166,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0257-binary-tree-paths/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -172,6 +175,7 @@
 | [0104-maximum-depth-of-binary-tree](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0112-path-sum](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0112-path-sum/) | Easy |
 | [0199-binary-tree-right-side-view](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0199-binary-tree-right-side-view/) | Medium |
+| [0257-binary-tree-paths](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0257-binary-tree-paths/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -211,4 +215,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0020-valid-parentheses/) | Easy |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0257-binary-tree-paths](https://github.com/AVinod6/APS-Lab-tasks/tree/main/0257-binary-tree-paths/) | Easy |
 <!---LeetCode Topics End-->
